@@ -53,7 +53,7 @@ export default function About() {
                 du développement web full stack aux applications bancaires critiques.
               </p>
               <p>
-                Ma passion pour l&apos;<strong className="text-slate-800">intelligence artificielle</strong> m'a amené 
+                Ma passion pour l&apos;<strong className="text-slate-800">intelligence artificielle</strong> m&apos;a amené 
                 à développer une application de traduction du langage des signes — projet de fin d&apos;études 
                 combinant Python, vision par ordinateur et deep learning.
               </p>
