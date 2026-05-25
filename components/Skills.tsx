@@ -47,7 +47,9 @@ export default function Skills() {
     const observer = new IntersectionObserver(entries => {
       entries.forEach(e => {
         if (e.isIntersecting) {
-          e.currentTarget.querySelectorAll('.skill-bar').forEach((bar, i) => {
+          const container = e.target as HTMLElement
+
+container.querySelectorAll('.skill-bar').forEach((bar, i) => {
             const el = bar as HTMLElement
             const target = el.dataset.level || '0'
             setTimeout(() => {
