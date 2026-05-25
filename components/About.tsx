@@ -47,14 +47,14 @@ export default function About() {
                 <strong className="text-blue-600">Banque de Développement Local (BDL)</strong> à Alger.
               </p>
               <p>
-                Titulaire d'un{' '}
+                Titulaire d&apos;un{' '}
                 <strong className="text-slate-800">Master en ingénierie des systèmes informatiques intelligents</strong>{' '}
-                de l'Université d'Alger 1, je maîtrise un large éventail de technologies : 
+                de l&apos;Université d&apos;Alger 1, je maîtrise un large éventail de technologies : 
                 du développement web full stack aux applications bancaires critiques.
               </p>
               <p>
-                Ma passion pour l'<strong className="text-slate-800">intelligence artificielle</strong> m'a amené 
-                à développer une application de traduction du langage des signes — projet de fin d'études 
+                Ma passion pour l&apos;<strong className="text-slate-800">intelligence artificielle</strong> m'a amené 
+                à développer une application de traduction du langage des signes — projet de fin d&apos;études 
                 combinant Python, vision par ordinateur et deep learning.
               </p>
               <p>

@@ -139,7 +139,7 @@ export default function Projects() {
           </h2>
           <div className="w-16 h-1 bg-gradient-to-r from-blue-500 to-emerald-400 rounded-full mx-auto mt-4" />
           <p className="text-slate-500 mt-4 max-w-lg mx-auto">
-            Du traitement d'image à l'intégration bancaire, voici un aperçu de mes réalisations.
+            Du traitement d&apos;image à l&apos;intégration bancaire, voici un aperçu de mes réalisations.
           </p>
         </div>
 
